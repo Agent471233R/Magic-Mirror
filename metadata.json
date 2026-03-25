@@ -1,0 +1,8 @@
+{
+  "name": "Magic Mirror AI",
+  "description": "An interactive magic mirror that transforms your reflection and speaks back using Gemini 2.5 Flash Lite and Gemini 3 Pro Image Preview.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
